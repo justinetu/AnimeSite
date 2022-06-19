@@ -1,0 +1,23 @@
+body {
+    background: black;
+    font-family: arial
+}
+h1, h2, h3, li, ul {
+    color: mediumaquamarine
+}
+a {
+   
+}
+
+em {
+    color: mediumaquamarine
+}
+p {
+    background: lightgreen; 
+    padding: 10px 
+}
+
+.secondary {
+    background: none;
+    color: #555;
+}
